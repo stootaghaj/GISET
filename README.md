@@ -3,7 +3,7 @@ Gaming Image Quality Dataset
  
 
 Due to review process of the paper, we do not provide the subjective rating of users. The frames are extracted from encoded and raw video sequences that are included in the dataset. 
-Link: https://drive.google.com/open?id=1wfiuShlLcbpjMkQ3ZkIlJAYcZeEwlifl 
+Link:
 
 The dataset has four folders as follows:
 
@@ -14,7 +14,7 @@ The dataset has four folders as follows:
 
 3.	Plots and Metrics: the results of objective metrics are provided in frame level as well video level together with some scatter plots of each metric and subjective results. The plot and frame-level information of metrics will be uploaded in few days. 
 
-4.	Materials: the raw reference sequence in YUV format together with encoded videos in mp4 format at spatial resolutions are provided in this folder.
+4.	Materials: the raw reference frames and encoded frames are provided in PNG format.
 
 
 Dataset will be completely published upon acceptance of the paper!
