@@ -1,5 +1,5 @@
 # GISET
-Gaming Image Quality Dataset
+## Gaming Image Quality Dataset
  
 
 Due to review process of the paper, we do not provide the subjective rating of users. The frames are extracted from encoded and raw video sequences that are included in the dataset. 
