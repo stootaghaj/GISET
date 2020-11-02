@@ -18,6 +18,18 @@ The dataset has four folders as follows:
 4.	Materials: the raw reference frames and encoded frames are provided in PNG format.
 
 
-Dataset will be completely published upon acceptance of the paper!
+
+
+## Citation 
+Please cite the paper below if you use the dataset:
+```
+	@inproceedings{NDNetgaming,
+		title={{NDNetGaming - Development of a No-Reference Deep CNN for Gaming Video Quality Prediction}},
+		author={Utke, Markus and Zadtootaghaj, Saman and Schmidt, Steven and Bosse, Sebastian and Moeller, Sebastian  },
+		booktitle={Multimedia Tools and Applications},
+		year={2020},
+		organization={Springer},
+	  }
+```
 
 
