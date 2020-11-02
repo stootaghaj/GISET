@@ -2,7 +2,7 @@
 ## Gaming Image Quality Dataset
  
 
-Due to review process of the paper, we do not provide the subjective rating of users. The frames are extracted from encoded and raw video sequences that are included in the dataset. 
+The frames are extracted from encoded and raw video sequences that are included in the dataset. 
 Link:
 https://drive.google.com/open?id=1R2MDH6aNmhZwXFwdHmM91kGIxwR3krf5
 
